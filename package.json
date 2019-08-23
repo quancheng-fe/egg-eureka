@@ -1,6 +1,6 @@
 {
   "name": "egg-eureka",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "fetch eureka registry and register egg app to eureka",
   "eggPlugin": {
     "name": "eureka"
